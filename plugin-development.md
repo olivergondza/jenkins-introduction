@@ -1,6 +1,7 @@
 # Plugin development
 
 - Check existing plugins for overlapping functionality
+- Choose minimal Jenkins version
 
 ## Best partices
 
@@ -11,3 +12,6 @@
   - Release
 
 ## Further reading
+
+Example implementation of several UI features of Jenkins
+https://github.com/jenkinsci/ui-samples-plugin
