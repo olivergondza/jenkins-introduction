@@ -1,9 +1,18 @@
 # Introduction
 
-## Core
 - what is jenkins
+
+## Basics
+
 - job lifecycle
 - using slaves
+
+## Advanced topics
+
+- Build triggers
+- Build pipelines
+- Job Parameters
+- Matrix jobs
 
 ## Plugins
 
