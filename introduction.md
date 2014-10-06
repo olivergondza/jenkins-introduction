@@ -19,6 +19,7 @@
 ### SCM
 - git
 - subversion
+- multiple SCM
 
 ### Build steps
 - shell
@@ -37,5 +38,5 @@
 
 ## Further reading
 
-http://www.wakaleo.com/books/jenkins-the-definitive-guide
-https://wiki.jenkins-ci.org/display/JENKINS/Use+Jenkins
+- http://www.wakaleo.com/books/jenkins-the-definitive-guide
+- https://wiki.jenkins-ci.org/display/JENKINS/Use+Jenkins
