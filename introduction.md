@@ -10,8 +10,8 @@
 ## Advanced topics
 
 - Build triggers
-- Build pipelines
 - Job Parameters
+- Build pipelines
 - Matrix jobs
 
 ## Plugins
@@ -31,4 +31,11 @@
 
 ## Best partices
 
+- Keep source in SCM, not in job configration
+- Avoid manual steps - automate build triggering and result notifications
+- Restrict jobs to label, not particual slave names
+
 ## Further reading
+
+http://www.wakaleo.com/books/jenkins-the-definitive-guide
+https://wiki.jenkins-ci.org/display/JENKINS/Use+Jenkins
