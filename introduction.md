@@ -26,7 +26,7 @@
 
 ### Post build steps
 - notifiers (mail, email-ext, irc)
-- archivers (artifacts, specific reports)
+- archivers (artifacts, test results, specific reports, html publisher)
 - external publishers (deploying)
 
 ## Best partices
