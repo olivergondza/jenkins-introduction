@@ -11,13 +11,17 @@ Import following maven projects in your IDE
 ## Topics
 
 - Do I need new plugin?
+  - Remote API
+  - Groovy scripts
 - What can I tweak from plugin?
   - task 1: Log when Jenkins started and finished loading jobs.
   - task 2: Log "START" and "END" at the beginning and end of every build. (hint: `RunListener`)
-- Localization
 - Stapler - http://stapler.kohsuke.org/reference.html
 - Jelly
   - task 3: Create custom `RootAction` with sidepanel
+- Localization
+  - Java code
+  - Jelly
 - Jenkins databinding
 - Persistence
 - Remoting (`Channel`, `FilePath`, `Launcher`)
@@ -25,6 +29,8 @@ Import following maven projects in your IDE
   - task 5: Text file in slave workspace
   - task 6: Launch process on slave machine
 - Jenkins CLI
+  - task 7: Create cusom CLI command
+- Tests
 
 ## Best practices
 
