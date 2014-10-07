@@ -12,15 +12,16 @@ Import following maven projects in your IDE
 
 - Do I need new plugin?
 - What can I tweak from plugin?
-  - task 1: Print "START" and "END" in every build log at the beggining and end of build. (hint: `RunListener`)
+  - task 1: Log when Jenkins started and finished loading jobs.
+  - task 2: Log "START" and "END" at the beginning and end of every build. (hint: `RunListener`)
 - Stapler - http://stapler.kohsuke.org/reference.html
 - Jelly
-  - task 2: Create custom `RootAction` with sidepannel
+  - task 3: Create custom `RootAction` with sidepanel
 - Jenkins databinding
-- Persistenace
+- Persistence
 - Remoting (`Channel`, `FilePath`, `Launcher`)
 
-## Best partices
+## Best practices
 
 - Check existing plugins for overlapping functionality
 - Choose minimal Jenkins version
