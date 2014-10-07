@@ -15,6 +15,10 @@
 - Build pipelines
   - [Build Pipeline Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Build+Pipeline+Plugin)
 - Matrix jobs
+- Remote access
+  - [CLI](https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+CLI)
+  - [Remote API](https://wiki.jenkins-ci.org/display/JENKINS/Remote+access+API)
+  - Client for [Python](https://pypi.python.org/pypi/jenkinsapi) and [Ruby](http://rubydoc.info/gems/jenkins_api_client/1.0.1/frames)
 
 ## Plugins
 
