@@ -24,6 +24,7 @@ Import following maven projects in your IDE
   - task 4: Run arbitrary java code in slave JVM during build
   - task 5: Text file in slave workspace
   - task 6: Launch process on slave machine
+- Jenkins CLI
 
 ## Best practices
 
