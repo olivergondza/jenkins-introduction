@@ -53,4 +53,3 @@
 - http://www.wakaleo.com/books/jenkins-the-definitive-guide
 - https://wiki.jenkins-ci.org/display/JENKINS/Use+Jenkins
 - https://wiki.jenkins-ci.org/display/JENKINS/Plugins
-- 
