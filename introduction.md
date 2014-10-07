@@ -1,6 +1,6 @@
 # Introduction
 
-- what is jenkins
+- What is Jenkins?
 
 ## Basics
 
@@ -46,11 +46,11 @@
 - [Ownership Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Ownership+Plugin)
 - [Dashboard View](https://wiki.jenkins-ci.org/display/JENKINS/Dashboard+View)
 
-## Best partices
+## Best practices
 
-- Keep source in SCM, not in job configration
+- Keep source in SCM, not in job configuration
 - Avoid manual steps - automate build triggering and result notifications
-- Restrict jobs to label, not particual slave names
+- Restrict jobs to label, not particular slave names
 
 ## Further reading
 
