@@ -5,7 +5,7 @@
 Import following maven projects in your IDE
 
 - https://github.com/jenkinsci/jenkins
-- https://github.com/jenkinsci/sample-extensions
+- https://github.com/olivergondza/jenkins-workshop
 - https://github.com/jenkinsci/ui-samples-plugin
 
 ## Topics
