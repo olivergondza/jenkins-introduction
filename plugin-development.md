@@ -11,12 +11,12 @@ Import following maven projects in your IDE
 ## Topics
 
 - Do I need new plugin?
-  - Remote API
-  - Groovy scripts
+  - [Remote API](https://wiki.jenkins-ci.org/display/JENKINS/Remote+access+API)
+  - [Groovy scripts](https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Script+Console)
 - What can I tweak from plugin?
   - task 1: Log when Jenkins started and finished loading jobs.
   - task 2: Log "START" and "END" at the beginning and end of every build. (hint: `RunListener`)
-- Stapler - http://stapler.kohsuke.org/reference.html
+- [Stapler](http://stapler.kohsuke.org/reference.html)
 - Jelly
   - task 3: Create custom `RootAction` with sidepanel
 - Localization
