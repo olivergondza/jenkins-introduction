@@ -6,7 +6,8 @@ Import following maven projects in your IDE
 
 - https://github.com/jenkinsci/jenkins
 - https://github.com/olivergondza/jenkins-workshop
-- https://github.com/jenkinsci/ui-samples-plugin
+
+Make sure you can build jenkins-workshop using `mvn clean package`.
 
 ## Topics
 
