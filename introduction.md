@@ -1,6 +1,7 @@
 # Introduction
 
 - What is Jenkins?
+- [Presentation](../jenkins.pdf)
 
 ## Basics
 
